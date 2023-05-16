@@ -12,7 +12,7 @@ while True:
     while(j<=20):
         playsound(f"audiofiles/song{random_array[j]}-audio.mp3")
         j=j+1
-    ch=input("Do you want to stop hearing(y/n)")
+    ch=input("Do you want to stop the music(y/n)")
     if ch=='y':
         break
     else:
