@@ -307,48 +307,19 @@ Python (version - 3.10.6)\\
 \begin{enumerate}
 \item random library
 
-\item playsound\\
+\item pygame library\\
 \end{enumerate}
 
 \textbf{Output}
 
-Audio playlist is played with songs played in a
-
-random order each time it is played,The song 
-
-which is currently being played is displayed on 
-
-the screen.\\
+Audio playlist is played with songs played in arandom order each time it is played,The song which is currently being played is displayed on the screen.Pressing 'n' will make the song to be played\\
 
 \textbf{Description}
 
-Each time the audio-playlist is played , 20 random 
+Each time the audio-playlist is played , 20 random numbers are generated using the random library.They are stored in the random-array.The video files recorded in class used to extract the audio files out of it using  ffmpeg.The songs are then played using the pygame library.Pressing n will make the next song to be played.\\
 
-numbers are generated using the random 
+The  random numbers generated using the random library follow the gaussian distribution function,
 
-library.They are stored in the random-array.
 
-The video files recorded in class used to extract 
-
-the audio files out of it using  ffmpeg.The songs 
-
-are then played using the playsound function in 
-
-the playsound library.
-
-The  random numbers generated using the random 
-
-library follow the gaussian distribution function,
-
- There graph plotted using the matplotlib.pyplot 
- 
- library is shown below
-
-\begin{figure}
-				\centering
-				\includegraphics[width=\columnwidth]{audio_1.png}
-				\caption{Plot of PMF}
-				\label{fig:figure1}
-\end{figure}
 
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.26)  18 MAY 2023 15:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.26)  18 MAY 2023 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1246,55 +1246,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 343--345
 
  []
 
-<output_diagram.jpeg, id=7, 1606.0pt x 928.46875pt>
-File: output_diagram.jpeg Graphic file (type jpg)
-<use output_diagram.jpeg>
-Package pdftex.def Info: output_diagram.jpeg  used on input line 349.
+<images/output_diagram.jpeg, id=7, 1606.0pt x 928.46875pt>
+File: images/output_diagram.jpeg Graphic file (type jpg)
+<use images/output_diagram.jpeg>
+Package pdftex.def Info: images/output_diagram.jpeg  used on input line 349.
 (pdftex.def)             Requested size: 199.15665pt x 199.16353pt.
-<image2.jpeg, id=8, 587.19376pt x 1043.9pt>
-File: image2.jpeg Graphic file (type jpg)
-<use image2.jpeg>
-Package pdftex.def Info: image2.jpeg  used on input line 353.
+<images/image2.jpeg, id=8, 587.19376pt x 1043.9pt>
+File: images/image2.jpeg Graphic file (type jpg)
+<use images/image2.jpeg>
+Package pdftex.def Info: images/image2.jpeg  used on input line 353.
 (pdftex.def)             Requested size: 199.16837pt x 199.15541pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-<image3.jpeg, id=28, 587.19376pt x 1043.9pt>
-File: image3.jpeg Graphic file (type jpg)
-<use image3.jpeg>
-Package pdftex.def Info: image3.jpeg  used on input line 357.
+<images/image3.jpeg, id=28, 587.19376pt x 1043.9pt>
+File: images/image3.jpeg Graphic file (type jpg)
+<use images/image3.jpeg>
+Package pdftex.def Info: images/image3.jpeg  used on input line 357.
 (pdftex.def)             Requested size: 199.16837pt x 199.15541pt.
-<image4.jpeg, id=29, 587.19376pt x 1043.9pt>
-File: image4.jpeg Graphic file (type jpg)
-<use image4.jpeg>
-Package pdftex.def Info: image4.jpeg  used on input line 361.
+<images/image4.jpeg, id=29, 587.19376pt x 1043.9pt>
+File: images/image4.jpeg Graphic file (type jpg)
+<use images/image4.jpeg>
+Package pdftex.def Info: images/image4.jpeg  used on input line 361.
 (pdftex.def)             Requested size: 199.16837pt x 199.15541pt.
-<image5.jpeg, id=30, 587.19376pt x 1043.9pt>
-File: image5.jpeg Graphic file (type jpg)
-<use image5.jpeg>
-Package pdftex.def Info: image5.jpeg  used on input line 365.
+<images/image5.jpeg, id=30, 587.19376pt x 1043.9pt>
+File: images/image5.jpeg Graphic file (type jpg)
+<use images/image5.jpeg>
+Package pdftex.def Info: images/image5.jpeg  used on input line 365.
 (pdftex.def)             Requested size: 199.16837pt x 199.15541pt.
-<image6.jpeg, id=31, 1043.9pt x 587.19376pt>
-File: image6.jpeg Graphic file (type jpg)
-<use image6.jpeg>
-Package pdftex.def Info: image6.jpeg  used on input line 369.
+<images/image6.jpeg, id=31, 1043.9pt x 587.19376pt>
+File: images/image6.jpeg Graphic file (type jpg)
+<use images/image6.jpeg>
+Package pdftex.def Info: images/image6.jpeg  used on input line 369.
 (pdftex.def)             Requested size: 199.15541pt x 199.16837pt.
-<block_diagram.jpeg, id=32, 1242.6425pt x 1604.99625pt>
-File: block_diagram.jpeg Graphic file (type jpg)
-<use block_diagram.jpeg>
-Package pdftex.def Info: block_diagram.jpeg  used on input line 374.
-(pdftex.def)             Requested size: 199.16817pt x 199.15462pt.
- [2 <./output_diagram.jpeg> <./image2.jpeg> <./image3.jpeg> <./image4.jpeg> <./
-image5.jpeg> <./image6.jpeg>] [3
+<images/block_diagram.jpeg, id=32, 1043.9pt x 843.15pt>
+File: images/block_diagram.jpeg Graphic file (type jpg)
+<use images/block_diagram.jpeg>
+Package pdftex.def Info: images/block_diagram.jpeg  used on input line 374.
+(pdftex.def)             Requested size: 199.15541pt x 199.16951pt.
+ [2 <./images/output_diagram.jpeg> <./images/image2.jpeg> <./images/image3.jpeg
+> <./images/image4.jpeg> <./images/image5.jpeg> <./images/image6.jpeg>] [3
 
- <./block_diagram.jpeg>] (./hardware.aux)
+ <./images/block_diagram.jpeg>] (./hardware.aux)
 Package rerunfilecheck Info: File `hardware.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28985 strings out of 478287
- 572600 string characters out of 5849289
+ 28986 strings out of 478287
+ 572901 string characters out of 5849289
  835816 words of memory out of 5000000
  46584 multiletter control sequences out of 15000+600000
  517716 words of font info for 112 fonts, out of 8000000 for 9000
@@ -1304,7 +1304,7 @@ Here is how much of TeX's memory you used:
 e/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/times/utmr8a.pfb>
-Output written on hardware.pdf (3 pages, 610512 bytes).
+Output written on hardware.pdf (3 pages, 564903 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
