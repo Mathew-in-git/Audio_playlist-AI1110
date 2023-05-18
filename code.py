@@ -10,6 +10,7 @@ while True:
 
     j=1
     while(j<=20):
+        print(f"song{random_array[j]}-audio.mp3")
         playsound(f"audio_files/song{random_array[j]}-audio.mp3")
         j=j+1
     ch=input("Do you want to stop the music(y/n)")
